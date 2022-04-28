@@ -12,5 +12,6 @@ public class Calculator {
     public static void main(String[] args) {
         add(5,2);
         subtract(5,2);
+        System.out.println("test");
     }
 }
